@@ -3,7 +3,6 @@ package hu.cubix.spring.gyuri.logistics.controller;
 import hu.cubix.spring.gyuri.logistics.dto.DelayDto;
 import hu.cubix.spring.gyuri.logistics.service.TransportPlansService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
